@@ -1,0 +1,30 @@
+{
+  "name": "bpa",
+  "version": "1.0.0",
+  "description": "This is the BPA of the app. it will contain all the procceses that the company will want",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sicard6/TesisBPA.git"
+  },
+  "keywords": [
+    "BPA",
+    "process",
+    "BPMN"
+  ],
+  "author": "Mateo Sicard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sicard6/TesisBPA/issues"
+  },
+  "homepage": "https://github.com/sicard6/TesisBPA#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
